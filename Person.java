@@ -26,6 +26,7 @@ public class Person {
             age = 1;
             }
     //construct which can accept some parameter called parameterised cons
+    //constructor overloading
     Person(String name, String address, int age)
     {
         this.name= name;// refering outside name
